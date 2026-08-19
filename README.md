@@ -43,7 +43,7 @@ mini-redis/
     └── store.cpp          # Reader-writer mutex locking implementation
 
 # 1. Clone the repository
-git clone [https://github.com/fahadalmaashani/mini-redis.git](https://github.com/fahadalmaashani/mini-redis.git)
+git clone https://github.com/Fahad-Al-Maashani/Mini-Redis-server.git
 cd mini-redis
 
 # 2. Create and enter the build directory
