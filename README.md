@@ -1,4 +1,4 @@
-# ⚡ Mini-Redis (C++20)
+# ⚡ Mini-Redis (C++20) Note: Still under trial not complete version, expect bugs and errors. 
 
 ![C++20](https://img.shields.io/badge/C%2B%2B-20-blue.svg?style=flat-square&logo=c%2B%2B)
 ![CMake](https://img.shields.io/badge/CMake-3.20%2B-green.svg?style=flat-square&logo=cmake)
